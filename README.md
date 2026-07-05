@@ -1,2 +1,2 @@
-# IoT-Project-Repository-Platform
+# IoT-Project-Platform
 IoT-Project-Repository-Platform
